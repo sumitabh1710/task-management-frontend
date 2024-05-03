@@ -1,0 +1,16 @@
+.popup_container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.312);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup_main_contianer {
+    width: 350px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 10px;
+}
